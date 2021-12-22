@@ -3,4 +3,4 @@
 rm -rf _site
 mkdir _site
 postcss assets/css/main.css -o dist/css/main.css
-npx @11ty/eleventy --serve
+npx @11ty/eleventy
